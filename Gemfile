@@ -29,6 +29,8 @@ gem "jbuilder"
 
 gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
 
+gem 'active_model_serializers'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
